@@ -1,7 +1,7 @@
 package org.example;
 import net.datafaker.Faker;
 
-public class Address {
+ class Address {
 
     private String city;
     private String street;
